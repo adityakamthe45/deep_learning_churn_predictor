@@ -2,7 +2,7 @@
 
 This project predicts whether a bank customer is likely to leave (churn) or stay. It uses a Custom Artificial Neural Network built with TensorFlow/Keras, and a Streamlit app lets you enter customer details and see the prediction.
 
-`Live Demo Link `: Coming Soon
+`Live Demo Link `: https://churnsensepredictor.streamlit.app/
 
 ## Dataset
 
